@@ -5,3 +5,4 @@ MirktorStory-North
 
 + Выбрать сюжет - Done
 + Написать план - In progress
++ Написать всё остальное - Not implemented yet
